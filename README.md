@@ -155,6 +155,12 @@ The install target also imports the smf manifest, so it must be configured befor
     pfexec make install
     ```
 
+=======
+
+    ```
+    pfexec make install
+    ```
+
 __FreeBSD__
 ### Using Ports on FreeBSD
 
